@@ -1,0 +1,16 @@
+C:\Users\intern\Source\Repos\20Ex\20Ex\20Ex\bin\Debug\20Ex.pdb
+C:\Users\intern\Source\Repos\20Ex\20Ex\20Ex\obj\Debug\20Ex.pdb
+C:\Users\intern\Source\Repos\20Ex\20Ex\20Ex\obj\Debug\20Ex.csprojResolveAssemblyReference.cache
+C:\Users\intern\Source\Repos\20Ex\20Ex\20Ex\bin\Debug\xunit.abstractions.dll
+C:\Users\intern\Source\Repos\20Ex\20Ex\20Ex\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\intern\Source\Repos\20Ex\20Ex\20Ex\bin\Debug\xunit.runner.utility.net35.dll
+C:\Users\intern\Source\Repos\20Ex\20Ex\20Ex\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\intern\Source\Repos\20Ex\20Ex\20Ex\bin\Debug\xunit.assert.dll
+C:\Users\intern\Source\Repos\20Ex\20Ex\20Ex\bin\Debug\xunit.core.dll
+C:\Users\intern\Source\Repos\20Ex\20Ex\20Ex\bin\Debug\xunit.execution.desktop.dll
+C:\Users\intern\Source\Repos\20Ex\20Ex\20Ex\bin\Debug\xunit.assert.xml
+C:\Users\intern\Source\Repos\20Ex\20Ex\20Ex\bin\Debug\xunit.core.xml
+C:\Users\intern\Source\Repos\20Ex\20Ex\20Ex\bin\Debug\xunit.execution.desktop.xml
+C:\Users\intern\Source\Repos\20Ex\20Ex\20Ex\bin\Debug\20Ex.dll.config
+C:\Users\intern\Source\Repos\20Ex\20Ex\20Ex\bin\Debug\20Ex.dll
+C:\Users\intern\Source\Repos\20Ex\20Ex\20Ex\obj\Debug\20Ex.dll
